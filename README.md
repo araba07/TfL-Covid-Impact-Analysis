@@ -19,8 +19,8 @@
 └── zone_impact_chart.png
 
 ```
-## My Dashboard 
-![NHS Interactive Dashboard Walkthrough](dashboard/nhs_waiting_list_dashboard_recording.gif)
+## Visualisations
+![Zone impact chart image](zone_impact_chart.png)
 
 ## Data Source & Environment
 
